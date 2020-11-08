@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://norrecraft.com/eficienz/en/categories/</loc>
+    <loc>https://norrecraft.com/eficienz/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://norrecraft.com/eficienz/categories/"
+                href="https://norrecraft.com/eficienz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://norrecraft.com/eficienz/en/categories/"
+                href="https://norrecraft.com/eficienz/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://norrecraft.com/eficienz/en/tags/</loc>
+    <loc>https://norrecraft.com/eficienz/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://norrecraft.com/eficienz/tags/"
+                href="https://norrecraft.com/eficienz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://norrecraft.com/eficienz/en/tags/"
+                href="https://norrecraft.com/eficienz/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://norrecraft.com/eficienz/en/</loc>
+    <loc>https://norrecraft.com/eficienz/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://norrecraft.com/eficienz/"
+                href="https://norrecraft.com/eficienz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://norrecraft.com/eficienz/en/"
+                href="https://norrecraft.com/eficienz/en/"
                 />
   </url>
   
