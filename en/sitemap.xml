@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.com/en/categories/</loc>
+    <loc>http://norrecraft.com/eficienz/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.com/categories/"
+                href="http://norrecraft.com/eficienz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/en/categories/"
+                href="http://norrecraft.com/eficienz/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/en/tags/</loc>
+    <loc>http://norrecraft.com/eficienz/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.com/tags/"
+                href="http://norrecraft.com/eficienz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/en/tags/"
+                href="http://norrecraft.com/eficienz/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/en/</loc>
+    <loc>http://norrecraft.com/eficienz/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.com/"
+                href="http://norrecraft.com/eficienz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/en/"
+                href="http://norrecraft.com/eficienz/en/"
                 />
   </url>
   
