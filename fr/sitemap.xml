@@ -21,20 +21,6 @@
   </url>
   
   <url>
-    <loc>https://norrecraft.com/eficienz/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://norrecraft.com/eficienz/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://norrecraft.com/eficienz/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://norrecraft.com/eficienz/</loc>
     <xhtml:link
                 rel="alternate"
@@ -45,6 +31,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://norrecraft.com/eficienz/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://norrecraft.com/eficienz/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://norrecraft.com/eficienz/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://norrecraft.com/eficienz/tags/"
                 />
   </url>
   
