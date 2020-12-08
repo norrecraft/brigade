@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://norrecraft.com/eficienz/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://norrecraft.com/eficienz/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://norrecraft.com/eficienz/"
+                />
+  </url>
+  
+  <url>
     <loc>https://norrecraft.com/eficienz/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -18,20 +32,6 @@
   
   <url>
     <loc>https://norrecraft.com/eficienz/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://norrecraft.com/eficienz/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://norrecraft.com/eficienz/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://norrecraft.com/eficienz/"
-                />
   </url>
   
   <url>
