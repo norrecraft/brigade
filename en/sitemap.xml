@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://norrecraft.com/eficienz/en/</loc>
+    <loc>https://norrecraft.com/brigade/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://norrecraft.com/eficienz/"
+                href="https://norrecraft.com/brigade/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://norrecraft.com/eficienz/en/"
+                href="https://norrecraft.com/brigade/en/"
                 />
   </url>
   
   <url>
-    <loc>https://norrecraft.com/eficienz/en/categories/</loc>
+    <loc>https://norrecraft.com/brigade/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://norrecraft.com/eficienz/categories/"
+                href="https://norrecraft.com/brigade/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://norrecraft.com/eficienz/en/categories/"
+                href="https://norrecraft.com/brigade/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://norrecraft.com/eficienz/en/tags/</loc>
+    <loc>https://norrecraft.com/brigade/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://norrecraft.com/eficienz/tags/"
+                href="https://norrecraft.com/brigade/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://norrecraft.com/eficienz/en/tags/"
+                href="https://norrecraft.com/brigade/en/tags/"
                 />
   </url>
   
