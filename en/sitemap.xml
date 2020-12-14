@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://norrecraft.com/brigade/en/</loc>
+    <loc>https://brigade.dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://norrecraft.com/brigade/"
+                href="https://brigade.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://norrecraft.com/brigade/en/"
+                href="https://brigade.dev/en/"
                 />
   </url>
   
   <url>
-    <loc>https://norrecraft.com/brigade/en/categories/</loc>
+    <loc>https://brigade.dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://norrecraft.com/brigade/categories/"
+                href="https://brigade.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://norrecraft.com/brigade/en/categories/"
+                href="https://brigade.dev/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://norrecraft.com/brigade/en/tags/</loc>
+    <loc>https://brigade.dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://norrecraft.com/brigade/tags/"
+                href="https://brigade.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://norrecraft.com/brigade/en/tags/"
+                href="https://brigade.dev/en/tags/"
                 />
   </url>
   
